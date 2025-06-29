@@ -1,6 +1,6 @@
 Bio informatique - fimH-ecoli-bioinfo-phylogenetic-analysis
 
-##Introduction
+## 📌 Objectifs
 🧬 Analyse du gène fimH chez *Escherichia coli* – Bioinformatique simple
 
 Ce projet est une étude bioinformatique exploratoire du gène **fimH**, impliqué dans l’adhésion bactérienne chez *E. coli*.  
