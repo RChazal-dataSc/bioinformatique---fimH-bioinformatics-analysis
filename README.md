@@ -23,11 +23,16 @@ L’objectif est de collecter des séquences, les aligner, et générer un arbre
 - Fichiers FASTA alignés (optionnels)
 
 ## 📈 Résultats
-- Alignement multi-séquences du gène fimH
-- Arbre phylogénétique représentant la proximité entre souches *E. coli*
+- Alignement de 20 séquences FimH issues de différentes souches d’*E. coli*
+- Arbre phylogénétique construit par la méthode **UPGMA**
+- Deux grands **clusters** distincts identifiés, suggérant une divergence évolutive (ex : pathogènes uropathogènes vs souches commensales ?)
+- Heatmap des distances pair-à-pair entre séquences
 
 ![Sans titre](https://github.com/user-attachments/assets/1189ede7-f5ac-47e6-af6a-3c859a6fd6ae)
 
+## 🧩 Bonus : Script de recherche BLAST paramétrable
+
+Une fonction générique a été ajoutée pour automatiser la recherche de gènes dans NCBI :
 
 ## 💡 Remarques
 Projet réalisé dans le cadre d’une montée en compétence en bioinformatique, avec assistance ponctuelle de ChatGPT pour l’écriture du code Python.
